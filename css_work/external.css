@@ -1,0 +1,13 @@
+h1{
+    color: black;
+}
+body{
+    background-color:rgb(235, 52, 171);
+}
+
+div{
+    background-color: #d4d1e0;
+    height: 300px;
+    width: 800px;
+    border: red 1px solid;
+}
